@@ -669,6 +669,7 @@ export namespace Category {
         TBD = <any> 'TBD',
         MF = <any> 'MF',
         NEED = <any> 'NEED'
+        DEBT = <any> 'DEBT'
     }
 }
 
